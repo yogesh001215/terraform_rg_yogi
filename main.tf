@@ -6,5 +6,5 @@ resource "azurerm_resource_group" "rg1_yogi" {
 
 resource "azurerm_resource_group" "rg1_yogi2" {
   name     = "yogi_112"
-  location = "centralindia"
+  location = "canada"
 }
